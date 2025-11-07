@@ -1,5 +1,4 @@
 ### Hello World! Sou o Marcos Vinicius
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://marcosviniciusdev.com.br/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-485726297/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosvn06/)
 
